@@ -66,3 +66,9 @@ Database connection configured via `DATABASE_URL` environment variable.
 ## Authentication
 
 Uses JWT-based authentication with bcrypt for password hashing. Auth middleware and routes are implemented for user registration and login flows.
+
+## Git Commit Guidelines
+
+- NEVER include Claude Code promotional text or links in commit messages
+- Keep commit messages clear, concise, and professional
+- Follow conventional commit format: `type: description`
